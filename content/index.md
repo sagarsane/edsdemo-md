@@ -1,4 +1,4 @@
-# MD Conetnt
+# MD CONTENT (fix)
 
 This site is built from MD source in github via an IO Action
 

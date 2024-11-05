@@ -2,7 +2,7 @@
 
 This site is built from MD source in github via an IO Action. This approach can be used for anyone to contribute to content from open source community and Github PRs can be used for approvals etc. Once PR is merged, website can be automatically published with latest content.
 
-## Header 2
+## Header 2 - making header changes
 
 ### Lorem Ipsum
 

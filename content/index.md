@@ -3,7 +3,7 @@ title: "Home | AEM Boilerplate"
 description: "Use this template repository as the starting point for new AEM projects."
 ---
 
-![Decorative double Helix][https://main--my-eds-site--ranjith1234.hlx.page/media_1dc0a2d290d791a050feb1e159746f52db392775a.jpeg]
+![Decorative double Helix](https://main--my-eds-site--ranjith1234.hlx.page/media_1dc0a2d290d791a050feb1e159746f52db392775a.jpeg)
 
 # Congrats, you are ready to go!
 

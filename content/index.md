@@ -60,7 +60,7 @@ Find some of our favorite staff picks below:
   </div>
   <div>
     <div>
-      <img alt="An iceberg" src="https://main--aem-boilerplate--adobe.aem.page//media_17a5ca5faf60fa6486a1476fce82a3aa606000c81.jpeg">
+      <img alt="An iceberg" src="https://main--aem-boilerplate--adobe.aem.page/media_17a5ca5faf60fa6486a1476fce82a3aa606000c81.jpeg">
     </div>
     <div>
       <p><strong>Content at scale</strong></p>

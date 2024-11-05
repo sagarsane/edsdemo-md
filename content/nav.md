@@ -3,7 +3,7 @@
 ---
 
 - Example Content
-  - [Default Content](https://main--aem-boilerplate--adobe.hlx.page/)
+  - [Test Content](https://main--aem-boilerplate--adobe.hlx.page/test-content)
 - Getting Started
   - [Build your first site](https://main--aem-boilerplate--adobe.hlx.page/)
   - [Preview and publish content](https://main--aem-boilerplate--adobe.hlx.page/)

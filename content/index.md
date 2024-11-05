@@ -7,8 +7,8 @@ description: "Use this template repository as the starting point for new AEM pro
 
 # Congrats, you are ready to go!
 
-Your forked repo is set up as an AEM Project and you are ready to start developing.\
-The content you are looking at is served from this [Google Drive](https://drive.google.com/drive/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j?usp=sharing)\
+This is a project where Github is used as a CMS (Content Source) authored via Markdown.\
+The content you are looking at is served from this [Github Project](https://github.com/sagarsane/edsdemo-md)\
 \
 Adjust the `fstab.yaml` to point to a folder either in your sharepoint or your gdrive that you shared with AEM. See the full tutorial here:\
 \

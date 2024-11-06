@@ -4,14 +4,14 @@
 
 - Web
   - [Test Content](https://main--aem-boilerplate--adobe.hlx.page/test-content)
-- Getting Started
+- Native App
   - [Build your first site](https://main--aem-boilerplate--adobe.hlx.page/)
   - [Preview and publish content](https://main--aem-boilerplate--adobe.hlx.page/)
   - [Organize your content](https://main--aem-boilerplate--adobe.hlx.page/)
-- Documentation
+- How to Test
   - [Architecture](https://main--aem-boilerplate--adobe.hlx.page/)
   - [Sidekick](https://main--aem-boilerplate--adobe.hlx.page/)
-
+- Demos
 ---
 
 :search:

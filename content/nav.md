@@ -2,7 +2,7 @@
 
 ---
 
-- Example Content
+- Web
   - [Test Content](https://main--aem-boilerplate--adobe.hlx.page/test-content)
 - Getting Started
   - [Build your first site](https://main--aem-boilerplate--adobe.hlx.page/)
